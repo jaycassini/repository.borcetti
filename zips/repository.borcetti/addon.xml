@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.borcetti" name="Borcetti repo" version="0.1" provider-name="Jay Borcetti">
+<addon id="repository.borcetti" name="Borcetti repo" version="0.0.1" provider-name="Jay Borcetti">
     <extension point="xbmc.addon.repository" name="Borcetti repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/jaycassini/repository.borcetti/master/zips/addons.xml</info>
