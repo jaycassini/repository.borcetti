@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.jayswizard" name="[COLOR darkred]Jays[/COLOR]Wizard" version="0.0.1" provider-name="jayborcetti">
+<addon id="plugin.program.jayswizard" name="[COLOR darkred]Jays[/COLOR] Wizard" version="0.0.2" provider-name="jayborcetti">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -140,7 +140,7 @@
     </extension>
 </addon>
 
-<addon id="repository.borcetti" name="Borcetti repo" version="0.0.1" provider-name="Jay Borcetti">
+<addon id="repository.borcetti" name="Borcetti repo" version="0.0.2" provider-name="Jay Borcetti">
     <extension point="xbmc.addon.repository" name="Borcetti repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/jaycassini/repository.borcetti/master/zips/addons.xml</info>
